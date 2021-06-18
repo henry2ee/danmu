@@ -3,9 +3,9 @@ https://github.com/BacooTang/huya-danmu
 https://github.com/IsoaSFlus/danmaku
 特此感谢。
 """
+
 from typing import Optional
 import re
-
 from aiohttp import ClientSession
 
 from danmu_abc import WsConn, Client

@@ -6,7 +6,6 @@ key = 'iQ3j&,KW:dQ^<=Y6'
 url = 'tcp://192.168.0.107:8002'
 area_id = 0
 
-
 async def test_yjmonitor_client(client):
     connection = client(
         key=key,
